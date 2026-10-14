@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DARIUSH
+# 👋 Hi, I'm FAIQ ALI
 
 ### Developer • AI/ML Enthusiast • Future Software Engineer
 
@@ -62,7 +62,7 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=faiqali-max&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
