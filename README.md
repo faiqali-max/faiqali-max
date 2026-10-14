@@ -57,8 +57,8 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 ## 📊 GitHub Statistics
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faiqali-max&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqali-max&layout=compact&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p>
