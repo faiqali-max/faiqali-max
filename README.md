@@ -78,11 +78,7 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
   </a>
 </p>
 
-<div align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
-   </a>
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
+
 
 ---
 
@@ -90,4 +86,8 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 
 > Learn continuously. Build consistently. Solve meaningful problems.
 
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and follow my journey as I grow as a developer.
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
