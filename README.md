@@ -56,13 +56,13 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faiqali-max&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqali-max&layout=compact&hide_border=true" alt="Most used programming languages" />
+<p align="center" >
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=faiqali-max&show_icons=true&hide_border=true&rank_icon=github&title_color=827ee3&text_color=827ee3&icon_color=827ee3" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqali-max&layout=compact&hide_border=true&title_color=827ee3&text_color=827ee3&icon_color=827ee3" alt="Most used programming languages" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=faiqali-max&hide_border=true" alt="GitHub contribution streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faiqali-max&hide_border=true&text_color=827ee3&currStreakNum=827ee3&sideNums=827ee3&currStreakLabel=827ee3&sideLabels=827ee3&dates=827ee3&icon_color=827ee3&ring=827ee3&fire=827ee3&bg_color=965ad1" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -77,6 +77,12 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
+
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
 
 ---
 
