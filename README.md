@@ -44,7 +44,7 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 
 ---
 
-## 📌 What I'm Working Toward
+## What I'm Working Toward
 
 - Building a strong foundation in full-stack development.
 - Improving programming and problem-solving skills.
@@ -53,6 +53,18 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 - Working toward creating scalable software products and SaaS applications.
 
 ---
+
+## 📌 My Projects
+
+### Weight Journey Planner
+
+- A place where you can check about your weight gain or loss.
+🌐 **Link:** [weight-journey-planner.vercel.app](https://weight-journey-planner.vercel.app)
+
+### Gradients Testing Playground
+
+- A place where you can check for the gradient colors what will they look like in your website.
+🌐 **Link:** [gradients-testing-playground.vercel.app](https://gradients-testing-playground.vercel.app)
 
 ## 📊 GitHub Statistics
 
