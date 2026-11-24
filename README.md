@@ -4,7 +4,7 @@
 
 I'm a passionate developer who enjoys building for the web, exploring intelligent systems, and solving real-world problems through technology. I'm currently learning **Full-Stack Development** while expanding my knowledge of **Artificial Intelligence, Machine Learning, Cybersecurity, and DevOps**.
 
-🌐 **Portfolio:** [faiqaliportfolio.vercel.app](https://faiqaliportfolio.vercel.app)
+🌐 **Portfolio:** [faiqali-portfolio.vercel.app](https://faiqali-portfolio.vercel.app)
 
 ---
 
