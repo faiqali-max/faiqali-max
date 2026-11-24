@@ -68,6 +68,12 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 
 🌐 **Link:** [gradients-testing-playground.vercel.app](https://gradients-testing-playground.vercel.app)
 
+### AI CURATED NEWS AGENT
+
+- An Agent which curates three latest news from the internet for the user built for Google's "5 Days AI Agents Intensive Vibe Coding Course" which was actually a hackathon.
+
+🌐 **Link:** [ai-curated-news-agent.streamlit.app](https://ai-curated-news-agent.streamlit.app)
+
 ## 📊 GitHub Statistics
 
 <p align="center" >
