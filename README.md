@@ -94,7 +94,7 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://faiqaliportfolio.vercel.app">
+  <a href="https://faiqali-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
   </a>
   <a href="https://github.com/faiqali-max">
