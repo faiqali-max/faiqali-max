@@ -56,6 +56,8 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 
 ## 📌 My Projects
 
+## Web Development Projects
+
 ### Weight Journey Planner
 
 - A place where you can check about your weight gain or loss.
@@ -67,6 +69,8 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 - A place where you can check for the gradient colors what will they look like in your website.
 
 🌐 **Link:** [gradients-testing-playground.vercel.app](https://gradients-testing-playground.vercel.app)
+
+## Agentic AI Projects
 
 ### AI CURATED NEWS AGENT
 
