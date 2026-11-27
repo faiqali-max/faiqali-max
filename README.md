@@ -48,7 +48,7 @@ I'm a passionate developer who enjoys building for the web, exploring intelligen
 
 - Building a strong foundation in full-stack development.
 - Improving programming and problem-solving skills.
-- Exploring AI-powered applications and automation.
+- Exploring AI-powered applications, Agentic AI and automations.
 - Developing projects that solve real-world problems.
 - Working toward creating scalable software products and SaaS applications.
 
